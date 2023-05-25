@@ -1,7 +1,5 @@
 # London-Crime-Patterns-During-Coronavirus-Lockdowns
 Final course project for INM433 – Visual Analytics - Elnara Mammadova 
-
-<h1>London Crime Patterns During Coronavirus Lockdowns</h1>
 </br>
 <b><i>Elnara Mammadova</i></b>
 <i>School of Mathematics, Computer Science and Engineering City, University of London</i>
