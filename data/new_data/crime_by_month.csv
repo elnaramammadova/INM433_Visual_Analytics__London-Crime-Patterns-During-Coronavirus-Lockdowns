@@ -1,0 +1,386 @@
+Crime type,Month,Number of Crimes
+Anti-social behaviour,2019-01,16937
+Burglary,2019-01,7477
+Criminal damage and arson,2019-01,4555
+Drugs,2019-01,3219
+Other crime,2019-01,806
+Possession of weapons,2019-01,550
+Public order,2019-01,3435
+Robbery,2019-01,2916
+Theft,2019-01,19279
+Vehicle crime,2019-01,10813
+Violence and sexual offences,2019-01,18110
+Anti-social behaviour,2019-02,16883
+Burglary,2019-02,6680
+Criminal damage and arson,2019-02,4378
+Drugs,2019-02,3172
+Other crime,2019-02,802
+Possession of weapons,2019-02,543
+Public order,2019-02,3585
+Robbery,2019-02,2953
+Theft,2019-02,20149
+Vehicle crime,2019-02,9611
+Violence and sexual offences,2019-02,17389
+Anti-social behaviour,2019-03,18941
+Burglary,2019-03,7221
+Criminal damage and arson,2019-03,4974
+Drugs,2019-03,4006
+Other crime,2019-03,938
+Possession of weapons,2019-03,723
+Public order,2019-03,4322
+Robbery,2019-03,3163
+Theft,2019-03,21763
+Vehicle crime,2019-03,10701
+Violence and sexual offences,2019-03,19531
+Anti-social behaviour,2019-04,19519
+Burglary,2019-04,6282
+Criminal damage and arson,2019-04,4538
+Drugs,2019-04,3381
+Other crime,2019-04,818
+Possession of weapons,2019-04,513
+Public order,2019-04,3954
+Robbery,2019-04,3345
+Theft,2019-04,21185
+Vehicle crime,2019-04,9498
+Violence and sexual offences,2019-04,17963
+Anti-social behaviour,2019-05,20971
+Burglary,2019-05,6361
+Criminal damage and arson,2019-05,4777
+Drugs,2019-05,3512
+Other crime,2019-05,914
+Possession of weapons,2019-05,581
+Public order,2019-05,4374
+Robbery,2019-05,3232
+Theft,2019-05,21436
+Vehicle crime,2019-05,9502
+Violence and sexual offences,2019-05,19352
+Anti-social behaviour,2019-06,22144
+Burglary,2019-06,6312
+Criminal damage and arson,2019-06,4557
+Drugs,2019-06,3732
+Other crime,2019-06,874
+Possession of weapons,2019-06,511
+Public order,2019-06,4420
+Robbery,2019-06,3109
+Theft,2019-06,20847
+Vehicle crime,2019-06,9529
+Violence and sexual offences,2019-06,19698
+Anti-social behaviour,2019-07,25793
+Burglary,2019-07,6151
+Criminal damage and arson,2019-07,4363
+Drugs,2019-07,4179
+Other crime,2019-07,859
+Possession of weapons,2019-07,525
+Public order,2019-07,4895
+Robbery,2019-07,3275
+Theft,2019-07,20003
+Vehicle crime,2019-07,8340
+Violence and sexual offences,2019-07,20557
+Anti-social behaviour,2019-08,23645
+Burglary,2019-08,5876
+Criminal damage and arson,2019-08,4022
+Drugs,2019-08,4316
+Other crime,2019-08,786
+Possession of weapons,2019-08,528
+Public order,2019-08,4284
+Robbery,2019-08,2863
+Theft,2019-08,18125
+Vehicle crime,2019-08,8291
+Violence and sexual offences,2019-08,18289
+Anti-social behaviour,2019-09,19989
+Burglary,2019-09,6224
+Criminal damage and arson,2019-09,4007
+Drugs,2019-09,3715
+Other crime,2019-09,843
+Possession of weapons,2019-09,496
+Public order,2019-09,4086
+Robbery,2019-09,3140
+Theft,2019-09,16683
+Vehicle crime,2019-09,8994
+Violence and sexual offences,2019-09,18537
+Anti-social behaviour,2019-10,20538
+Burglary,2019-10,7122
+Criminal damage and arson,2019-10,4486
+Drugs,2019-10,3668
+Other crime,2019-10,849
+Possession of weapons,2019-10,509
+Public order,2019-10,4350
+Robbery,2019-10,3576
+Theft,2019-10,20915
+Vehicle crime,2019-10,10767
+Violence and sexual offences,2019-10,19014
+Anti-social behaviour,2019-11,18512
+Burglary,2019-11,6927
+Criminal damage and arson,2019-11,4189
+Drugs,2019-11,3646
+Other crime,2019-11,842
+Possession of weapons,2019-11,487
+Public order,2019-11,4042
+Robbery,2019-11,3670
+Theft,2019-11,19769
+Vehicle crime,2019-11,10167
+Violence and sexual offences,2019-11,18749
+Anti-social behaviour,2019-12,16968
+Burglary,2019-12,6625
+Criminal damage and arson,2019-12,4195
+Drugs,2019-12,3172
+Other crime,2019-12,793
+Possession of weapons,2019-12,463
+Public order,2019-12,3799
+Robbery,2019-12,3170
+Theft,2019-12,18683
+Vehicle crime,2019-12,10269
+Violence and sexual offences,2019-12,17971
+Anti-social behaviour,2020-01,17617
+Burglary,2020-01,6892
+Criminal damage and arson,2020-01,4356
+Drugs,2020-01,4308
+Other crime,2020-01,836
+Possession of weapons,2020-01,562
+Public order,2020-01,4006
+Robbery,2020-01,3240
+Theft,2020-01,18902
+Vehicle crime,2020-01,11913
+Violence and sexual offences,2020-01,18289
+Anti-social behaviour,2020-02,17040
+Burglary,2020-02,6215
+Criminal damage and arson,2020-02,4213
+Drugs,2020-02,3804
+Other crime,2020-02,753
+Possession of weapons,2020-02,450
+Public order,2020-02,3827
+Robbery,2020-02,3124
+Theft,2020-02,19376
+Vehicle crime,2020-02,10296
+Violence and sexual offences,2020-02,17744
+Anti-social behaviour,2020-03,23054
+Burglary,2020-03,5365
+Criminal damage and arson,2020-03,4353
+Drugs,2020-03,3658
+Other crime,2020-03,813
+Possession of weapons,2020-03,482
+Public order,2020-03,3938
+Robbery,2020-03,2688
+Theft,2020-03,15061
+Vehicle crime,2020-03,9424
+Violence and sexual offences,2020-03,18186
+Anti-social behaviour,2020-04,62748
+Burglary,2020-04,3668
+Criminal damage and arson,2020-04,3480
+Drugs,2020-04,4944
+Other crime,2020-04,755
+Possession of weapons,2020-04,460
+Public order,2020-04,3451
+Robbery,2020-04,1091
+Theft,2020-04,7348
+Vehicle crime,2020-04,6297
+Violence and sexual offences,2020-04,15516
+Anti-social behaviour,2020-05,58506
+Burglary,2020-05,3892
+Criminal damage and arson,2020-05,3901
+Drugs,2020-05,6390
+Other crime,2020-05,818
+Possession of weapons,2020-05,527
+Public order,2020-05,4218
+Robbery,2020-05,1282
+Theft,2020-05,8964
+Vehicle crime,2020-05,7214
+Violence and sexual offences,2020-05,17943
+Anti-social behaviour,2020-06,39604
+Burglary,2020-06,4308
+Criminal damage and arson,2020-06,4333
+Drugs,2020-06,4653
+Other crime,2020-06,873
+Possession of weapons,2020-06,463
+Public order,2020-06,4938
+Robbery,2020-06,1691
+Theft,2020-06,11550
+Vehicle crime,2020-06,8052
+Violence and sexual offences,2020-06,19382
+Anti-social behaviour,2020-07,35604
+Burglary,2020-07,4920
+Criminal damage and arson,2020-07,4676
+Drugs,2020-07,4560
+Other crime,2020-07,883
+Possession of weapons,2020-07,454
+Public order,2020-07,5558
+Robbery,2020-07,2153
+Theft,2020-07,15027
+Vehicle crime,2020-07,8744
+Violence and sexual offences,2020-07,20705
+Anti-social behaviour,2020-08,35871
+Burglary,2020-08,4989
+Criminal damage and arson,2020-08,4711
+Drugs,2020-08,3544
+Other crime,2020-08,778
+Possession of weapons,2020-08,453
+Public order,2020-08,5458
+Robbery,2020-08,2494
+Theft,2020-08,16271
+Vehicle crime,2020-08,8871
+Violence and sexual offences,2020-08,21035
+Anti-social behaviour,2020-09,30894
+Burglary,2020-09,5189
+Criminal damage and arson,2020-09,4271
+Drugs,2020-09,3547
+Other crime,2020-09,955
+Possession of weapons,2020-09,501
+Public order,2020-09,5133
+Robbery,2020-09,2567
+Theft,2020-09,16383
+Vehicle crime,2020-09,9719
+Violence and sexual offences,2020-09,20098
+Anti-social behaviour,2020-10,31237
+Burglary,2020-10,5599
+Criminal damage and arson,2020-10,4208
+Drugs,2020-10,4128
+Other crime,2020-10,817
+Possession of weapons,2020-10,495
+Public order,2020-10,4543
+Robbery,2020-10,2420
+Theft,2020-10,16383
+Vehicle crime,2020-10,10050
+Violence and sexual offences,2020-10,19314
+Anti-social behaviour,2020-11,33917
+Burglary,2020-11,5192
+Criminal damage and arson,2020-11,4193
+Drugs,2020-11,4423
+Other crime,2020-11,968
+Possession of weapons,2020-11,509
+Public order,2020-11,4229
+Robbery,2020-11,2281
+Theft,2020-11,13128
+Vehicle crime,2020-11,9106
+Violence and sexual offences,2020-11,18745
+Anti-social behaviour,2020-12,29431
+Burglary,2020-12,4751
+Criminal damage and arson,2020-12,4081
+Drugs,2020-12,3622
+Other crime,2020-12,777
+Possession of weapons,2020-12,388
+Public order,2020-12,3862
+Robbery,2020-12,2014
+Theft,2020-12,13400
+Vehicle crime,2020-12,7698
+Violence and sexual offences,2020-12,17621
+Anti-social behaviour,2021-01,33678
+Burglary,2021-01,4267
+Criminal damage and arson,2021-01,3618
+Drugs,2021-01,3672
+Other crime,2021-01,731
+Possession of weapons,2021-01,345
+Public order,2021-01,3432
+Robbery,2021-01,1438
+Theft,2021-01,9585
+Vehicle crime,2021-01,7635
+Violence and sexual offences,2021-01,16085
+Anti-social behaviour,2021-02,29205
+Burglary,2021-02,4041
+Criminal damage and arson,2021-02,3549
+Drugs,2021-02,4030
+Other crime,2021-02,737
+Possession of weapons,2021-02,381
+Public order,2021-02,3352
+Robbery,2021-02,1319
+Theft,2021-02,9450
+Vehicle crime,2021-02,7576
+Violence and sexual offences,2021-02,15957
+Anti-social behaviour,2021-03,30653
+Burglary,2021-03,4629
+Criminal damage and arson,2021-03,4178
+Drugs,2021-03,4190
+Other crime,2021-03,897
+Possession of weapons,2021-03,406
+Public order,2021-03,4873
+Robbery,2021-03,1629
+Theft,2021-03,11435
+Vehicle crime,2021-03,8251
+Violence and sexual offences,2021-03,19762
+Anti-social behaviour,2021-04,27180
+Burglary,2021-04,4134
+Criminal damage and arson,2021-04,4263
+Drugs,2021-04,3754
+Other crime,2021-04,868
+Possession of weapons,2021-04,338
+Public order,2021-04,4921
+Robbery,2021-04,1687
+Theft,2021-04,13102
+Vehicle crime,2021-04,7032
+Violence and sexual offences,2021-04,19062
+Anti-social behaviour,2021-05,26193
+Burglary,2021-05,4159
+Criminal damage and arson,2021-05,4669
+Drugs,2021-05,3413
+Other crime,2021-05,935
+Possession of weapons,2021-05,376
+Public order,2021-05,5433
+Robbery,2021-05,1736
+Theft,2021-05,14928
+Vehicle crime,2021-05,7723
+Violence and sexual offences,2021-05,21653
+Anti-social behaviour,2021-06,27696
+Burglary,2021-06,4228
+Criminal damage and arson,2021-06,4847
+Drugs,2021-06,3211
+Other crime,2021-06,801
+Possession of weapons,2021-06,405
+Public order,2021-06,5701
+Robbery,2021-06,1880
+Theft,2021-06,15991
+Vehicle crime,2021-06,7971
+Violence and sexual offences,2021-06,21846
+Anti-social behaviour,2021-07,26298
+Burglary,2021-07,4214
+Criminal damage and arson,2021-07,4651
+Drugs,2021-07,3252
+Other crime,2021-07,885
+Possession of weapons,2021-07,428
+Public order,2021-07,5931
+Robbery,2021-07,1856
+Theft,2021-07,16589
+Vehicle crime,2021-07,7607
+Violence and sexual offences,2021-07,22215
+Anti-social behaviour,2021-08,23399
+Burglary,2021-08,4306
+Criminal damage and arson,2021-08,4533
+Drugs,2021-08,3160
+Other crime,2021-08,752
+Possession of weapons,2021-08,393
+Public order,2021-08,4787
+Robbery,2021-08,1884
+Theft,2021-08,16387
+Vehicle crime,2021-08,8598
+Violence and sexual offences,2021-08,19609
+Anti-social behaviour,2021-09,21984
+Burglary,2021-09,4301
+Criminal damage and arson,2021-09,4457
+Drugs,2021-09,2944
+Other crime,2021-09,849
+Possession of weapons,2021-09,393
+Public order,2021-09,5114
+Robbery,2021-09,2193
+Theft,2021-09,17071
+Vehicle crime,2021-09,8937
+Violence and sexual offences,2021-09,21099
+Anti-social behaviour,2021-10,21082
+Burglary,2021-10,4680
+Criminal damage and arson,2021-10,4559
+Drugs,2021-10,3593
+Other crime,2021-10,940
+Possession of weapons,2021-10,430
+Public order,2021-10,5192
+Robbery,2021-10,2190
+Theft,2021-10,18678
+Vehicle crime,2021-10,9083
+Violence and sexual offences,2021-10,21752
+Anti-social behaviour,2021-11,18060
+Burglary,2021-11,4817
+Criminal damage and arson,2021-11,4430
+Drugs,2021-11,3565
+Other crime,2021-11,847
+Possession of weapons,2021-11,453
+Public order,2021-11,4844
+Robbery,2021-11,2202
+Theft,2021-11,18743
+Vehicle crime,2021-11,9272
+Violence and sexual offences,2021-11,20997
